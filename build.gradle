@@ -1,0 +1,4 @@
+// Zenith Rider — pure Java project. No Kotlin plugins are applied anywhere.
+plugins {
+    id 'com.android.application' version '8.5.2' apply false
+}

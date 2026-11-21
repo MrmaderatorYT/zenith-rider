@@ -1,0 +1,21 @@
+# Build output and Gradle caches
+build/
+app/build/
+.gradle/
+.kotlin/
+
+# Local machine settings and secrets: never commit these
+local.properties
+keystore.properties
+*.jks
+*.keystore
+
+# IDE and OS files
+.idea/
+*.iml
+.vscode/
+.DS_Store
+
+# Scratch files
+captures/
+*.log

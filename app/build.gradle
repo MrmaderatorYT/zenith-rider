@@ -1,0 +1,53 @@
+plugins {
+    id 'com.android.application'
+}
+
+// Release signing is read from keystore.properties in the project root (git-ignored).
+// Without that file the release build is produced unsigned.
+def keystoreProps = new Properties()
+def keystoreFile = rootProject.file('keystore.properties')
+if (keystoreFile.exists()) {
+    keystoreProps.load(new FileInputStream(keystoreFile))
+}
+
+android {
+    namespace 'com.ccs.zenith_rider'
+    compileSdk 36
+
+    defaultConfig {
+        applicationId "com.ccs.zenith_rider"
+        minSdk 24
+        targetSdk 36
+        versionCode 1
+        versionName "1.0"
+    }
+
+    signingConfigs {
+        release {
+            if (keystoreFile.exists()) {
+                storeFile file(keystoreProps['storeFile'])
+                storePassword keystoreProps['storePassword']
+                keyAlias keystoreProps['keyAlias']
+                keyPassword keystoreProps['keyPassword']
+            }
+        }
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            if (keystoreFile.exists()) {
+                signingConfig signingConfigs.release
+            }
+        }
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
+    }
+}
+
+// Native Android SDK only: no engines, no Kotlin, no third-party libraries.
+dependencies {
+}

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="72"
+    android:viewportHeight="72">
+    <group android:translateX="-18" android:translateY="-18">
+        <clip-path android:pathData="M30,18h48a12,12 0,0 1,12 12v48a12,12 0,0 1,-12 12h-48a12,12 0,0 1,-12 -12v-48a12,12 0,0 1,12 -12z" />
+        <path android:pathData="M0,0h108v108h-108z">
+            <aapt:attr name="android:fillColor">
+                <gradient android:type="linear" android:startX="54" android:startY="0" android:endX="54" android:endY="108">
+                    <item android:color="#FF1B2A6B" android:offset="0.0" />
+                    <item android:color="#FF2C7F97" android:offset="0.5" />
+                    <item android:color="#FFBDF2DC" android:offset="1.0" />
+                </gradient>
+            </aapt:attr>
+        </path>
+        <path android:fillColor="#1EFFF6D6" android:pathData="M58,44m-27,0a27,27 0,1 1,54 0a27,27 0,1 1,-54 0" />
+        <path android:fillColor="#30FFF6D6" android:pathData="M58,44m-19,0a19,19 0,1 1,38 0a19,19 0,1 1,-38 0" />
+        <path android:fillColor="#FFFFF8E1" android:pathData="M58,44m-13,0a13,13 0,1 1,26 0a13,13 0,1 1,-26 0" />
+        <path android:fillColor="#FF6CC7BC" android:pathData="M0,74L14,58L26,67L42,51L58,68L72,56L90,71L108,60L108,108L0,108z" />
+        <path android:fillColor="#FF2F8F8C" android:pathData="M0,84L12,73L22,80L36,68L50,82L66,71L84,84L98,75L108,80L108,108L0,108z" />
+        <path android:fillColor="#CCFFFFFF" android:pathData="M27,31l1.3,-2.6l1.3,2.6l-1.3,2.6z" />
+        <path android:fillColor="#CCFFFFFF" android:pathData="M82,27l1.2,-2.4l1.2,2.4l-1.2,2.4z" />
+        <path android:fillColor="#99FFFFFF" android:pathData="M36,43l0.9,-1.8l0.9,1.8l-0.9,1.8z" />
+        <path android:fillColor="#99FFFFFF" android:pathData="M79,40l0.9,-1.8l0.9,1.8l-0.9,1.8z" />
+        <path android:fillColor="#FF0E1430" android:pathData="M0,89C30,78 78,78 108,87L108,108L0,108z" />
+        <path android:fillColor="#FF0E1430" android:pathData="M44,84L44,68A10,10 0,0 1,64 68L64,84L59.5,84L59.5,68A5.5,5.5 0,0 0,48.5 68L48.5,84z" />
+        <path android:fillColor="#FF0E1430" android:pathData="M42,67h5v2.4h-5z M61,67h5v2.4h-5z" />
+        <path android:fillColor="#FF0E1430" android:pathData="M74.5,57L77.5,65L75,72L72,64z" />
+        <path android:fillColor="#FF0E1430" android:pathData="M81,67l1.6,4l-1.3,3.2l-1.6,-3.6z" />
+        <path android:fillColor="#FF0E1430" android:pathData="M33,63L35.5,70L33.8,75L31,69z" />
+        <path android:fillColor="#FF0E1430" android:pathData="M24,86L27,73L30,85z M84,85L86.6,74L89,86z" />
+        <path android:strokeColor="#FFFF6B6B" android:strokeWidth="2.3" android:strokeLineCap="round" android:strokeLineJoin="round" android:pathData="M58,47C50,52.5 43,44.5 35,48.5C30,51 27,55 21.5,52.5" />
+        <group android:translateX="55" android:translateY="30" android:rotation="160">
+            <path android:strokeColor="#FF0E1430" android:strokeWidth="2.7" android:strokeLineCap="round" android:strokeLineJoin="round" android:pathData="M-11,0.6Q0,2.6 11,-0.6" />
+            <path android:strokeColor="#FF0E1430" android:strokeWidth="2.1" android:strokeLineCap="round" android:strokeLineJoin="round" android:pathData="M-4,-0.5L-1.6,-6L0.5,-9.2" />
+            <path android:strokeColor="#FF0E1430" android:strokeWidth="2.1" android:strokeLineCap="round" android:strokeLineJoin="round" android:pathData="M4.6,-1L3.2,-6L0.5,-9.2" />
+            <path android:strokeColor="#FF0E1430" android:strokeWidth="4.1" android:strokeLineCap="round" android:strokeLineJoin="round" android:pathData="M0.5,-9.2L2.5,-16" />
+            <path android:strokeColor="#FF0E1430" android:strokeWidth="1.7" android:strokeLineCap="round" android:strokeLineJoin="round" android:pathData="M2.3,-15L-3.2,-12" />
+            <path android:fillColor="#FF0E1430" android:pathData="M3.6,-19.3m-2.8,0a2.8,2.8 0,1 1,5.6 0a2.8,2.8 0,1 1,-5.6 0" />
+        </group>
+    </group>
+</vector>

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Zenith Rider</string>
+
+    <!-- Загальний інтерфейс -->
+    <string name="title">ZENITH RIDER</string>
+    <string name="play">ГРАТИ</string>
+    <string name="shop">МАГАЗИН</string>
+    <string name="missions">МІСІЇ</string>
+    <string name="back">НАЗАД</string>
+    <string name="start">СТАРТ</string>
+    <string name="resume">ПРОДОВЖИТИ</string>
+    <string name="quit">ВИЙТИ В МЕНЮ</string>
+    <string name="retry">ЩЕ РАЗ</string>
+    <string name="menu">МЕНЮ</string>
+    <string name="paused">ПАУЗА</string>
+    <string name="game_over">ЗАБІГ ЗАВЕРШЕНО</string>
+    <string name="distance">Дистанція</string>
+    <string name="score">Очки</string>
+    <string name="best">Рекорд</string>
+    <string name="orbs">Сфери</string>
+    <string name="rank">Ранг</string>
+    <string name="new_record">НОВИЙ РЕКОРД!</string>
+    <string name="sound">Звук</string>
+    <string name="on">УВІМК</string>
+    <string name="off">ВИМК</string>
+    <string name="upgrades">ПОКРАЩЕННЯ</string>
+    <string name="perks">МОДИФІКАТОРИ</string>
+    <string name="level">Рівень</string>
+    <string name="max">МАКС</string>
+    <string name="owned">У наявності</string>
+    <string name="buy">КУПИТИ</string>
+    <string name="choose_perks">Обери до 2 модифікаторів на цей забіг</string>
+    <string name="no_orbs">Недостатньо сфер</string>
+    <string name="mission_done">Місію виконано!</string>
+    <string name="reward">Нагорода</string>
+    <string name="flow">ПОТІК ЗЕНІТУ</string>
+    <string name="meters">м</string>
+
+    <!-- Постійні покращення -->
+    <string name="upg_name_0">Магніт сфер</string>
+    <string name="upg_name_1">Крила Зеніту</string>
+    <string name="upg_name_2">Резонатор Потоку</string>
+    <string name="upg_desc_0">Більший радіус притягування сфер і довший бонус магніту.</string>
+    <string name="upg_desc_1">Швидше обертання в повітрі та повільніше зниження під час планерування.</string>
+    <string name="upg_desc_2">Потік Зеніту триває довше.</string>
+
+    <!-- Одноразові модифікатори -->
+    <string name="perk_name_0">Енергетичний щит</string>
+    <string name="perk_name_1">Подвійний резонанс</string>
+    <string name="perk_name_2">Низька гравітація</string>
+    <string name="perk_name_3">Миттєвий Зеніт</string>
+    <string name="perk_desc_0">Один раз рятує від зіткнення з кристалом або невдалого приземлення.</string>
+    <string name="perk_desc_1">Усі зібрані в забігу сфери подвоюються.</string>
+    <string name="perk_desc_2">Вищі та довші стрибки протягом усього забігу.</string>
+    <string name="perk_desc_3">Забіг починається одразу в Потоці Зеніту.</string>
+
+    <!-- Місії (%d замінюється цільовим значенням) -->
+    <string name="mission_0">Зроби %d сальто за один забіг</string>
+    <string name="mission_1">Збери %d сфер</string>
+    <string name="mission_2">Пролети %d м у Потоці Зеніту</string>
+    <string name="mission_3">Проковзни по %d канатах</string>
+    <string name="mission_4">Подолай %d м за один забіг</string>
+    <string name="mission_5">Розбий %d кристалів</string>
+    <string name="mission_6">Пропланеруй %d м на енергетичному крилі</string>
+    <string name="mission_7">Набери %d очок за один забіг</string>
+    <string name="mission_8">Досягни комбо x%d</string>
+    <string name="mission_9">Перестрибни %d прірв</string>
+
+    <!-- Ранги -->
+    <string name="rank_0">Новачок</string>
+    <string name="rank_1">Мандрівник</string>
+    <string name="rank_2">Планерист</string>
+    <string name="rank_3">Заклинач вітру</string>
+    <string name="rank_4">Небесний танцівник</string>
+    <string name="rank_5">Адепт Зеніту</string>
+    <string name="rank_6">Вершник бурі</string>
+    <string name="rank_7">Майстер Зеніту</string>
+
+    <!-- Інтерактивний туторіал -->
+    <string name="tut_0">Торкнись екрана, щоб стрибнути</string>
+    <string name="tut_1">Утримуй палець у повітрі для сальто, відпусти перед приземленням</string>
+    <string name="tut_2">Трюки підвищують комбо, а з ним росте і шарф</string>
+    <string name="tut_3">ПОТІК ЗЕНІТУ! Утримуй палець у повітрі, щоб розкрити крило й ширяти</string>
+    <string name="tut_4">Приземлися на канат, щоб ковзати по ньому</string>
+    <string name="tut_5">Залети на крилі у висхідний потік, щоб злетіти вище</string>
+
+    <!-- Спливаючі написи -->
+    <string name="pop_flip">Сальто</string>
+    <string name="pop_rail">Ковзання по канату</string>
+    <string name="pop_smash">Кристал розбито</string>
+    <string name="pop_gap">Прірву подолано</string>
+    <string name="pop_flow">ПОТІК ЗЕНІТУ!</string>
+    <string name="pop_shield">Енергетичний щит!</string>
+    <string name="pop_magnet">Магніт</string>
+
+    <!-- Статистика та магазин -->
+    <string name="best_dist">Рекорд дистанції</string>
+    <string name="best_score">Рекорд очок</string>
+    <string name="collected">Зібрано сфер</string>
+    <string name="selected">ОБРАНО</string>
+    <string name="none_owned">Купи в магазині</string>
+    <string name="select">ОБРАТИ</string>
+    <string name="combo">Комбо</string>
+    <!-- Додаткові покращення, модифікатори та райдери -->
+    <string name="upg_name_3">Гребінь Зефіру</string>
+    <string name="upg_name_4">Поклик вогників</string>
+    <string name="upg_desc_3">Підібраний гребінь піднімає над снігом, над кристалами. Кожен рівень додає час левітації.</string>
+    <string name="upg_desc_4">Більші зграї світлових вогників: промчи крізь них заради швидкості та комбо.</string>
+    <string name="perk_name_4">Страхувальний трос</string>
+    <string name="perk_desc_4">Один раз за забіг витягує з прірви.</string>
+    <string name="riders">РАЙДЕРИ</string>
+    <string name="rider_name_0">Каель</string>
+    <string name="rider_name_1">Ліра</string>
+    <string name="rider_name_2">Бракк</string>
+    <string name="rider_name_3">Ікса</string>
+    <string name="rider_name_4">Зеф</string>
+    <string name="rider_name_5">Орун</string>
+    <string name="rider_desc_0">Мандрівник. Збалансовані швидкість та обертання.</string>
+    <string name="rider_desc_1">Легка і спритна: дуже швидкі сальто, нижча максимальна швидкість.</string>
+    <string name="rider_desc_2">Важкий: повільно розганяється й крутиться, але має величезну швидкість і розбиває кристали на ходу.</string>
+    <string name="rider_desc_3">Винахідниця з реактивною дошкою: швидкий розгін, швидкі сальто, сильніший буст від трюків.</string>
+    <string name="rider_desc_4">Дитя вітру: другий стрибок просто в повітрі.</string>
+    <string name="rider_desc_5">Старійшина Зеніту: швидкий, стрімкі сальто, розбиває кристали й має подвійний стрибок.</string>
+    <string name="pop_hover">Левітація</string>
+    <!-- Екран результату та дії в магазині -->
+    <string name="your_score">Твій результат</string>
+    <string name="dist_travelled">Пройдена дистанція</string>
+    <string name="trick_score">Очки за трюки</string>
+    <string name="best_combo">найкраще комбо</string>
+    <string name="chasms_cleared">Подолано прірв</string>
+    <string name="goals_done">Виконано місій</string>
+    <string name="total">Разом</string>
+    <string name="home">Головна</string>
+    <string name="play_again">Ще раз</string>
+    <string name="upgrade">Покращити</string>
+    <string name="complete">Готово</string>
+    <string name="purchase">Купити</string>
+    <string name="flow_unlock_name">Потік Зеніту</string>
+    <string name="flow_unlock_desc">Відкривається один раз. Трюки підвищують комбо й подовжують шарф; на x5 він запалює Потік Зеніту з енергетичним крилом.</string>
+    <string name="tut_6">Приземлений трюк дає ривок: секунду можна розбивати кристали</string>
+</resources>

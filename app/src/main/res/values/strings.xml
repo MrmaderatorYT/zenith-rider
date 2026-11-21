@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Zenith Rider</string>
+
+    <!-- General UI -->
+    <string name="title">ZENITH RIDER</string>
+    <string name="play">PLAY</string>
+    <string name="shop">SHOP</string>
+    <string name="missions">MISSIONS</string>
+    <string name="back">BACK</string>
+    <string name="start">START RUN</string>
+    <string name="resume">RESUME</string>
+    <string name="quit">QUIT TO MENU</string>
+    <string name="retry">RIDE AGAIN</string>
+    <string name="menu">MENU</string>
+    <string name="paused">PAUSED</string>
+    <string name="game_over">RUN ENDED</string>
+    <string name="distance">Distance</string>
+    <string name="score">Score</string>
+    <string name="best">Best</string>
+    <string name="orbs">Orbs</string>
+    <string name="rank">Rank</string>
+    <string name="new_record">NEW RECORD!</string>
+    <string name="sound">Sound</string>
+    <string name="on">ON</string>
+    <string name="off">OFF</string>
+    <string name="upgrades">UPGRADES</string>
+    <string name="perks">MODIFIERS</string>
+    <string name="level">Level</string>
+    <string name="max">MAX</string>
+    <string name="owned">Owned</string>
+    <string name="buy">BUY</string>
+    <string name="choose_perks">Choose up to 2 modifiers for this run</string>
+    <string name="no_orbs">Not enough orbs</string>
+    <string name="mission_done">Mission complete!</string>
+    <string name="reward">Reward</string>
+    <string name="flow">ZENITH FLOW</string>
+    <string name="meters">m</string>
+
+    <!-- Permanent upgrades -->
+    <string name="upg_name_0">Sphere Magnet</string>
+    <string name="upg_name_1">Zenith Wings</string>
+    <string name="upg_name_2">Flow Resonator</string>
+    <string name="upg_desc_0">Wider orb attraction radius and a longer magnet bonus.</string>
+    <string name="upg_desc_1">Faster rotation in the air and slower descent while gliding.</string>
+    <string name="upg_desc_2">Zenith Flow lasts longer.</string>
+
+    <!-- One-run modifiers -->
+    <string name="perk_name_0">Aegis Shield</string>
+    <string name="perk_name_1">Double Orbs</string>
+    <string name="perk_name_2">Lunar Gravity</string>
+    <string name="perk_name_3">Instant Zenith</string>
+    <string name="perk_desc_0">Saves you once from a crystal collision or a bad landing.</string>
+    <string name="perk_desc_1">Every orb collected in this run counts twice.</string>
+    <string name="perk_desc_2">Higher and longer jumps for the whole run.</string>
+    <string name="perk_desc_3">Start the run already in Zenith Flow.</string>
+
+    <!-- Missions (%d is replaced by the target value) -->
+    <string name="mission_0">Land %d backflips in one run</string>
+    <string name="mission_1">Collect %d orbs</string>
+    <string name="mission_2">Travel %d m in Zenith Flow</string>
+    <string name="mission_3">Grind %d rope lines</string>
+    <string name="mission_4">Ride %d m in one run</string>
+    <string name="mission_5">Shatter %d crystals</string>
+    <string name="mission_6">Glide %d m on the energy wing</string>
+    <string name="mission_7">Score %d points in one run</string>
+    <string name="mission_8">Reach a x%d combo</string>
+    <string name="mission_9">Clear %d chasms</string>
+
+    <!-- Ranks -->
+    <string name="rank_0">Novice</string>
+    <string name="rank_1">Drifter</string>
+    <string name="rank_2">Glider</string>
+    <string name="rank_3">Windcaller</string>
+    <string name="rank_4">Skydancer</string>
+    <string name="rank_5">Zenith Adept</string>
+    <string name="rank_6">Stormrider</string>
+    <string name="rank_7">Zenith Master</string>
+
+    <!-- Interactive tutorial -->
+    <string name="tut_0">Tap to jump</string>
+    <string name="tut_1">Hold in the air to backflip, release to land flat</string>
+    <string name="tut_2">Tricks raise your combo, and the scarf grows with it</string>
+    <string name="tut_3">ZENITH FLOW! Hold in the air to open the energy wing and glide</string>
+    <string name="tut_4">Land on a rope line to grind along it</string>
+    <string name="tut_5">Glide into an updraft to soar higher</string>
+
+    <!-- Popups -->
+    <string name="pop_flip">Backflip</string>
+    <string name="pop_rail">Rope grind</string>
+    <string name="pop_smash">Crystal smash</string>
+    <string name="pop_gap">Chasm cleared</string>
+    <string name="pop_flow">ZENITH FLOW!</string>
+    <string name="pop_shield">Aegis Shield!</string>
+    <string name="pop_magnet">Magnet</string>
+
+    <!-- Stats and shop details -->
+    <string name="best_dist">Best distance</string>
+    <string name="best_score">Best score</string>
+    <string name="collected">Orbs collected</string>
+    <string name="selected">SELECTED</string>
+    <string name="none_owned">Buy in the shop</string>
+    <string name="select">SELECT</string>
+    <string name="combo">Combo</string>
+    <!-- Extra upgrades, modifiers and riders -->
+    <string name="upg_name_3">Zephyr Crest</string>
+    <string name="upg_name_4">Wisp Call</string>
+    <string name="upg_desc_3">Crest pickups make you hover above the snow, over crystals. Each level adds hover time.</string>
+    <string name="upg_desc_4">Bigger flocks of light wisps: rush through them for speed and combo.</string>
+    <string name="perk_name_4">Chasm Tether</string>
+    <string name="perk_desc_4">Pulls you out of a chasm once per run.</string>
+    <string name="riders">RIDERS</string>
+    <string name="rider_name_0">Kael</string>
+    <string name="rider_name_1">Lyra</string>
+    <string name="rider_name_2">Brakk</string>
+    <string name="rider_name_3">Ixa</string>
+    <string name="rider_name_4">Zeph</string>
+    <string name="rider_name_5">Orun</string>
+    <string name="rider_desc_0">The wayfarer. Balanced speed and rotation.</string>
+    <string name="rider_desc_1">Light and nimble: very fast flips, lower top speed.</string>
+    <string name="rider_desc_2">Heavy: slow to start and to spin, huge top speed, smashes crystals at speed.</string>
+    <string name="rider_desc_3">Tinkerer with a jet board: quick acceleration, fast flips, bigger trick boosts.</string>
+    <string name="rider_desc_4">Wind child: a second jump in mid-air.</string>
+    <string name="rider_desc_5">Elder of the Zenith: fast, quick flips, smashes crystals and double jumps.</string>
+    <string name="pop_hover">Hover</string>
+    <!-- Results screen and shop actions -->
+    <string name="your_score">Your Score</string>
+    <string name="dist_travelled">Distance travelled</string>
+    <string name="trick_score">Trick score</string>
+    <string name="best_combo">best combo</string>
+    <string name="chasms_cleared">Chasms cleared</string>
+    <string name="goals_done">Goals completed</string>
+    <string name="total">Total</string>
+    <string name="home">Home</string>
+    <string name="play_again">Play Again</string>
+    <string name="upgrade">Upgrade</string>
+    <string name="complete">Complete</string>
+    <string name="purchase">Purchase</string>
+    <string name="flow_unlock_name">Zenith Flow</string>
+    <string name="flow_unlock_desc">One-time unlock. Tricks raise the combo and lengthen your scarf; at x5 it ignites Zenith Flow with the energy wing.</string>
+    <string name="tut_6">Landing a trick gives a one-second dash that smashes crystals</string>
+</resources>

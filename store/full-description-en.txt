@@ -1,0 +1,38 @@
+Zenith Rider is an endless arcade game about a rider gliding down high snowy slopes. Jump off ramps, flip through the air, ride rope lines and time every landing.
+
+Crystals are the only hazard on the slope. Crashing into one from the side ends the run, unless a shield, Zenith Flow, a dash or a smashing rider saves you. Landing on one from above shatters it and bounces you back into the air.
+
+WHAT YOU DO
+- Tap to jump. Jump from a launch ramp for a bigger leap.
+- Hold in the air to flip backwards.
+- Land a flip or a rope dismount on the snow and you get a one-second dash that speeds you up and shatters crystals ahead.
+- Land on rope lines between posts to slide along them.
+- Rising air currents lift you higher.
+- Cross chasms from ramp to ramp, or use a rope to reach the far side.
+
+COMBOS AND ZENITH FLOW
+- Flips, rope rides and shattered crystals raise your combo. A higher combo gives you a longer scarf.
+- At x5 with a full scarf, Zenith Flow ignites if you have unlocked it: you move faster, shatter crystals on contact and can open an energy wing to glide. Your combo resets when Flow ends.
+- Zenith Flow is a one-time unlock in the shop.
+
+SHOP
+- Five upgrades with five levels each: Sphere Magnet, Zenith Wings, Flow Resonator, Zephyr Crest and Wisp Call.
+- Modifiers to take into a run: Aegis Shield, Chasm Tether, Double Orbs, Lunar Gravity and Instant Zenith.
+- Six riders with different speed, handling and abilities. Some can double jump, and some shatter crystals at speed.
+
+MISSIONS
+- Three missions are active at a time, and progress stays ticked between runs. Finish all three to rank up and receive a new set.
+
+WORLD
+- The day cycle runs from dawn through day, golden hour, sunset, dusk and night. Each run starts at a different hour. Lanterns glow at dusk; at night you can see stars, a crescent moon and the northern lights.
+- Weather changes on its own: clear, cloudy, snow, blizzard, fog, rain and thunderstorms with lightning. Weather changes the look and the sound, not the rules.
+- Landmarks, groves and lantern posts are placed anew in every run.
+
+SOUND
+- All music and sound effects are generated in real time by the game. The ambient music follows your height, the time of day and Zenith Flow.
+
+LANGUAGES
+- English and Ukrainian. Switch between them in the menu.
+
+SCORING
+- Your score adds up distance, trick points multiplied by your combo, energy orbs, chasms crossed and completed missions.
